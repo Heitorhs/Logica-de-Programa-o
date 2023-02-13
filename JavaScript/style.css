@@ -1,0 +1,21 @@
+@charset "UTF-8";
+
+body{ 
+    background: rgb(72, 87, 172);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+section{
+background:rgb(203, 206, 221);
+width: 500px;
+padding: 15px;
+border-radius: 50px;
+margin: 0 auto;
+text-align: center;
+margin-top: 20px;
+}
+
+h1{
+    color:rgb(35, 44, 44);
+    font-size: 2em;
+}
